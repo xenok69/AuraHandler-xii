@@ -1,7 +1,7 @@
 ![Main Banner](./images/Banner.png)
 
 # ✨ AuraHandler ~ xii's rng
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-latest-black)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-latest-blue)
 
 A performant module for equipping and unequipping auras on players in xii's RNG game.
 
