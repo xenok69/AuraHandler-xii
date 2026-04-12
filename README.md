@@ -8,11 +8,11 @@ A performant module for equipping and unequipping auras on players in xii's RNG 
 ## 📦 What's Included
 | File | Path | Description |
 | --- | --- | --- |
-| [AuraHandler.luau](./bin/Modules/AuraHandler.luau) | ReplicatedStorage/Modules | Main module to equip / unequip auras |
-| [Aura.luau](./bin/Types/Aura.luau) | ReplicatedStorage/Types | Type definition for aura prefabs |
-| [Serializer.luau](./bin/Modules/Serializer.luau) | ServerScriptService/Modules | Converts aura instances into typed tables usable by AuraHandler |
-| [Example.luau](./bin/Example.luau) | ServerScriptService | Example script showing full setup and aura equipping |
-| [Baseplate.rbxl](./bin/Places/AuraHandler_Baseplate.rbxl) | - | A place to find all scripts pre-installed |
+| [AuraHandler.luau](./src/Modules/AuraHandler.luau) | ReplicatedStorage/Modules | Main module to equip / unequip auras |
+| [Aura.luau](./src/Types/Aura.luau) | ReplicatedStorage/Types | Type definition for aura prefabs |
+| [Serializer.luau](./src/Modules/Serializer.luau) | ServerScriptService/Modules | Converts aura instances into typed tables usable by AuraHandler |
+| [Example.luau](./src/Example.luau) | ServerScriptService | Example script showing full setup and aura equipping |
+| [Baseplate.rbxl](./src/Places/AuraHandler_Baseplate.rbxl) | - | A place to find all scripts pre-installed |
 
 ---
 
@@ -42,7 +42,7 @@ Something is missing from your aura structure (e.g. the Model or a required valu
 
 ## 🔧 Usage — Manual
 
-📥 Download: [AuraHandler.luau](./bin/Modules/AuraHandler.luau), [Aura.luau](./bin/Types/Aura.luau), and [Serializer.luau](./bin/Modules/Serializer.luau)
+📥 Download: [AuraHandler.luau](./src/Modules/AuraHandler.luau), [Aura.luau](./src/Types/Aura.luau), and [Serializer.luau](./src/Modules/Serializer.luau)
 
 Place the modules in the following locations:
 
